@@ -1,5 +1,10 @@
-# Ch 2 Lorem Ipsum
-Hello world!
+---
+layout: post
+title:  "Welcome to Jekyll!"
+---
 
-## Ch 2.1
-Dolor sit amet.
+# Welcome
+
+**Hello world**, this is my first Jekyll blog post.
+
+I hope you like it!
